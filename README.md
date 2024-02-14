@@ -77,7 +77,7 @@ Datetime Module
 ### How to Run
 git clone https://github.com/krishanatripati99/FairBilling.git
 cd your_repository
-python fair_billing.py path/to/your/logfile.txt
+python fair_billing.py samplelog.txt
 
 ### Input Example 
 sample input log_text file
